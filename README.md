@@ -80,22 +80,6 @@ graph TD
 
 ----->
 
-## 👥 Team & Collaborators  
-
-<!---| Name | Role | Contribution |
-|------|------|--------------|
-| 👨‍🔬 Aryan Ghosh | ML Engineer | Model Training & Flask API |
-| 👩‍💻 Collaborator 2 | IoT Dev | ESP32 Sensor Integration |
-| 👨‍💻 Collaborator 3 | Frontend Dev | Next.js Dashboard |
-| 👩‍🔬 Collaborator 4 | Data Scientist | API + Visualization |--->
-
-* 👨‍🔬[Aryan Ghosh](https://github.com/Aryan-Ghosh-Code)
-* 👨‍🔬[Surajit Ray](https://github.com/surajit8100)
-* 👨‍🔬[Anshley Mukherjee](https://github.com/anshleyy)
-* 👨‍🔬[Debnanda Datta](https://github.com/debnanda)
-
----
-
 ## 🚀 Getting Started  
 
 ### 🔹 Backend (Flask)  
